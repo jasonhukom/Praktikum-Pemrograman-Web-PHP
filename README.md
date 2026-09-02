@@ -172,7 +172,3 @@ Tahun Ajaran: 2026/2027
 ---
 
 > Repository ini dibuat sebagai dokumentasi dan pengumpulan hasil praktikum Pemrograman Web menggunakan PHP.
-
-
-
-**Catatan:** karena README di atas sendiri memiliki code block, saat copy ke GitHub kamu harus menyalin **seluruh blok dari `# Praktikum Pemrograman Web PHP` sampai baris terakhir**, bukan tiga backtick paling luar.
