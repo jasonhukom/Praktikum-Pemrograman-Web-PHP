@@ -45,7 +45,7 @@ Repository ini berisi hasil praktikum **Pemrograman Web (PHP)** tahun ajaran **2
     │
     └── tugas/
         └── tampil.php
-
+```
 🎯 Tujuan Pembelajaran
 
 Praktikum ini bertujuan untuk:
@@ -130,31 +130,31 @@ Import file db_sekolah.sql ke MySQL melalui phpMyAdmin sebelum menjalankan bagia
 
 Praktikum 1
 
-Mempelajari dasar-dasar PHP dan penggunaan echo untuk menampilkan output.
+ - Mempelajari dasar-dasar PHP dan penggunaan echo untuk menampilkan output.
 
 Praktikum 2
 
-Mempelajari variabel, operasi matematika, perhitungan nilai, dan percabangan menggunakan if dan elseif.
+ - Mempelajari variabel, operasi matematika, perhitungan nilai, dan percabangan menggunakan if dan elseif.
 
 Praktikum 3
 
-Mempelajari struktur kontrol, perulangan for, operator modulus, serta penggunaan continue.
+ - Mempelajari struktur kontrol, perulangan for, operator modulus, serta penggunaan continue.
 
 Praktikum 4
 
-Mempelajari pembuatan dan penggunaan function serta pengolahan data siswa.
+ - Mempelajari pembuatan dan penggunaan function serta pengolahan data siswa.
 
 Praktikum 5
 
-Mempelajari array, array asosiatif, dan perulangan foreach.
+ - Mempelajari array, array asosiatif, dan perulangan foreach.
 
 Praktikum 6
 
-Mempelajari HTML Form, metode POST, pengambilan data menggunakan $_POST, serta pembuatan kalkulator sederhana menggunakan function.
+ - Mempelajari HTML Form, metode POST, pengambilan data menggunakan $_POST, serta pembuatan kalkulator sederhana menggunakan function.
 
 Praktikum 7
 
-Mempelajari koneksi PHP dengan database MySQL dan konsep CRUD sederhana.
+ - Mempelajari koneksi PHP dengan database MySQL dan konsep CRUD sederhana.
 
 
 ---
