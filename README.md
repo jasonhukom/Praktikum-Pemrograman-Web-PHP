@@ -44,7 +44,13 @@ Repository ini berisi hasil praktikum **Pemrograman Web (PHP)** tahun ajaran **2
     │   └── tampil.php
     │
     └── tugas/
-        └── tampil.php
+        ├── db_sekolah.sql
+        ├── edit.php
+        ├── hapus.php
+        ├── index.php
+        ├── koneksi.php
+        ├── style.css
+        └── tambah.php
 ```
 🎯 Tujuan Pembelajaran
 
@@ -112,19 +118,25 @@ http://localhost:8000/praktikum-php/praktikum1/latihan.php
 
 🗄️ Praktikum 7
 
-Praktikum 7 menggunakan database db_sekolah dan berisi beberapa file untuk koneksi, penambahan, serta penampilan data.
+Praktikum 7 menggunakan database `db_sekolah` dan berisi latihan dasar serta tugas akhir CRUD lengkap (Create, Read, Update, Delete).
 
-Database
+### Latihan
+- Database: `praktikum7/latihan/db_sekolah.sql`
+- File PHP:
+  - `praktikum7/latihan/koneksi.php`
+  - `praktikum7/latihan/tambah.php`
+  - `praktikum7/latihan/tampil.php`
 
-praktikum7/latihan/db_sekolah.sql
+### Tugas Akhir (CRUD Lengkap)
+- Database: `praktikum7/tugas/db_sekolah.sql`
+- Fitur:
+  - **Create**: `praktikum7/tugas/tambah.php` (Prepared statements `mysqli_prepare`)
+  - **Read**: `praktikum7/tugas/index.php` (Tabel siswa dinamis, ringkasan statistik, kalkulasi predikat & status kelulusan, fitur pencarian)
+  - **Update**: `praktikum7/tugas/edit.php` (Pembaruan data siswa dengan validasi)
+  - **Delete**: `praktikum7/tugas/hapus.php` (Penghapusan data aman dengan konfirmasi dialog)
+  - **Styling**: `praktikum7/tugas/style.css` (Modern dark mode & glassmorphism)
 
-File PHP
-
-praktikum7/latihan/koneksi.php
-praktikum7/latihan/tambah.php
-praktikum7/latihan/tampil.php
-
-Import file db_sekolah.sql ke MySQL melalui phpMyAdmin sebelum menjalankan bagian database.
+Import file `db_sekolah.sql` ke MySQL melalui phpMyAdmin sebelum menjalankan aplikasi database.
 
 📚 Materi Praktikum
 
